@@ -1,0 +1,44 @@
+
+# 2025-11-20 18:52:30.463842
++Code the following app
++```
++Idea: A risk and position-size calculator for spot and futures trades.
++User goal: Avoid blowing up the account because of oversized positions.
++Core features (MVP):
++
++* Input: balance, risk percentage per trade, entry price, stop-loss.
++* Output: recommended position size, leverage, potential loss/profit.
++* Saving several “risk profiles” (conservative, standard, aggressive).
++
++Development plan:
++
++1. Define formulas for risk and position-size calculations.
++2. Create a simple UI with input/output forms.
++3. Add the ability to save settings locally (localStorage).
++4. Optional: converters for different exchanges (lot size / quantity / minimum tick).
++5. Publish as a PWA (so it can be used like a mobile app from the web).
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 18:52:30.464270
++Code the following app
++```
++Idea: A risk and position-size calculator for spot and futures trades.
++User goal: Avoid blowing up the account because of oversized positions.
++Core features (MVP):
++
++* Input: balance, risk percentage per trade, entry price, stop-loss.
++* Output: recommended position size, leverage, potential loss/profit.
++* Saving several “risk profiles” (conservative, standard, aggressive).
++
++Development plan:
++
++1. Define formulas for risk and position-size calculations.
++2. Create a simple UI with input/output forms.
++3. Add the ability to save settings locally (localStorage).
++4. Optional: converters for different exchanges (lot size / quantity / minimum tick).
++5. Publish as a PWA (so it can be used like a mobile app from the web).
++```
++
++Generate an app logo and update the app metadata title and description.
